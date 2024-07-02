@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
         <title>Static Site</title>
         </head>
         <body>
-            <div style="width:100%;height:100%;background-color:red;display: flex;justify-content: center;align-items: center; background:url('block.png');background-size: cover;background-repeat: no-repeat;background-position: center;">
+            <div style="width:100%;height:100%;background-color:red;display: flex;justify-content: center;align-items: center; background:url('block.png');background-size: cover;background-repeat: no-repeat;background-position: center;color:black;">
                 <div style="display: flex;justify-content: center;align-items: center;flex-direction: column;">
                      <div style="">
                         <img src="block.svg"/>
